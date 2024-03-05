@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('star')
     .setDetails(`༺♰༻ [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('mp:attachments/991719725019181076/1204760007019597855/35.gif?ex=65d5e731&is=65c37231&hm=7c54be4d6f1599de9edbc16ec90a61dd35e38ea76e4e5c3bcfd74aeabcc2ed11&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('mp:attachments/991719725019181076/1214718738725736530/35.gif?ex=65fa21fb&is=65e7acfb&hm=297a1dafd0258a37921428b1714d6c3980faef4e38833116ca859c967fc54162&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('lover') //Text when you hover the Large image
-    .setAssetsSmallImage('mp:attachments/1078599543693787266/1184442280111779880/1129575327291682866.gif?ex=658bfcd5&is=657987d5&hm=d323fb67bcd0e005580a6bab&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('mp:attachments/991719725019181076/1214718883672490085/1129575327291682866.gif?ex=65fa221e&is=65e7ad1e&hm=f5c75db41412d26a4244c20e6b02a3057bfcde7539c826b12083d4f6ac101e8d&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('lost') //Text when you hover the Small image
     .addButton('♱', 'https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz?si=5fcc5244c9ae4d8e')
     .addButton('glory', 'https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz?si=5fcc5244c9ae4d8e');
