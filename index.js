@@ -34,8 +34,8 @@ client.on('ready', async () => {
     .setAssetsLargeText('lover') //Text when you hover the Large image
     .setAssetsSmallImage('mp:attachments/991719725019181076/1214718883672490085/1129575327291682866.gif?ex=65fa221e&is=65e7ad1e&hm=f5c75db41412d26a4244c20e6b02a3057bfcde7539c826b12083d4f6ac101e8d&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('lost') //Text when you hover the Small image
-    .addButton('♱', 'https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz?si=5fcc5244c9ae4d8e')
-    .addButton('glory', 'https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz?si=5fcc5244c9ae4d8e');
+    .addButton('♱', 'https://www.last.fm/user/scaryloved')
+    .addButton('glory', 'https://letterboxd.com/periwinkler/');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
@@ -44,7 +44,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const newTime = formatTime();
     if (newTime !== prevTime) {
-      const newDetails = `murder`;
+      const newDetails = `blood`;
       r.setDetails(newDetails);
       client.user.setActivity(r);
       prevTime = newTime;
