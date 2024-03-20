@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('star')
     .setDetails(`༺♰༻ [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('mp:attachments/991719725019181076/1217602235228491908/36.gif?ex=66049f72&is=65f22a72&hm=30f0c7dac863c879b7d0f704653c128e32f8f2e3cd9f6d2abaa8bbd2a0509a00&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('mp:attachments/991719725019181076/1219880765844750367/346.gif?ex=660ce97e&is=65fa747e&hm=ab61035fbeb4f599fb5f580edbfba293196c897239e35b06df6c4c43d37c909f&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('lover') //Text when you hover the Large image
-    .setAssetsSmallImage('mp:attachments/991719725019181076/1214718883672490085/1129575327291682866.gif?ex=65fa221e&is=65e7ad1e&hm=f5c75db41412d26a4244c20e6b02a3057bfcde7539c826b12083d4f6ac101e8d&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('mp:attachments/991719725019181076/1219881541920886875/1122166223774417017.gif?ex=660cea37&is=65fa7537&hm=55c333b8b110e960ddccd63a1a15cab3634d87bf1f19fedaa0edeaab440c556b&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('lost') //Text when you hover the Small image
     .addButton('♱', 'https://www.last.fm/user/scaryloved')
     .addButton('glory', 'https://letterboxd.com/periwinkler/');
